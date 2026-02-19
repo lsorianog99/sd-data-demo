@@ -1,0 +1,8 @@
+sku,nombre,marca,quiebre_inicio,quiebre_fin,dias_sin_stock,cajas_perdidas_estimadas,venta_perdida_mxn,margen_perdido_mxn,temporada
+SKU001,iPhone 15 128GB,Apple,2023-11-15,2023-12-02,17,753,12875622.3,2574582.3,Buen Fin
+SKU001,iPhone 15 128GB,Apple,2024-11-14,2024-11-22,8,354,6053081.4,1210361.4,Buen Fin
+SKU046,Barbie Dreamhouse,Mattel,2023-12-05,2023-12-20,15,725,2609347.5,1304347.5,Navidad
+SKU046,Barbie Dreamhouse,Mattel,2024-12-08,2024-12-22,14,677,2436590.7,1217990.7,Navidad
+SKU011,"Smart TV Samsung 55"" 4K",Samsung,2024-11-12,2024-11-25,13,324,3207308.4,961988.4,Buen Fin
+SKU037,Carolina Herrera Good Girl 80ml,Carolina Herrera,2023-05-01,2023-05-10,9,551,1735154.1,867329.1,Día de las Madres
+SKU015,Refrigerador Samsung 14ft,Samsung,2024-05-27,2024-06-08,12,716,9665355.6,2899155.6,Hot Sale

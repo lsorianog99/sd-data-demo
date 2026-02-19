@@ -1,0 +1,70 @@
+cliente_id,nombre,canal,region,ejecutivo,segmento,venta_anual_potencial_mxn,credito_dias,fecha_alta
+SUC001,SD Guadalajara Centro,Tienda Física,Jalisco,Carlos Herrera,A,18000000,0,2018-03-31
+SUC002,SD Tlaquepaque,Tienda Física,Jalisco,Carlos Herrera,A,14000000,0,2019-07-11
+SUC003,SD Zapopan Plaza del Sol,Tienda Física,Jalisco,Laura Mendoza,A,16000000,0,2018-03-20
+SUC004,SD Tonalá,Tienda Física,Jalisco,Laura Mendoza,A,12000000,0,2021-10-21
+SUC005,SD Puerto Vallarta,Tienda Física,Jalisco,Carlos Herrera,B,8500000,0,2021-10-16
+SUC006,SD Lagos de Moreno,Tienda Física,Jalisco,Laura Mendoza,B,6000000,0,2018-10-23
+SUC007,SD Tepatitlán,Tienda Física,Jalisco,Carlos Herrera,B,5500000,0,2019-11-05
+SUC008,SD Chapala,Tienda Física,Jalisco,Laura Mendoza,C,3200000,0,2019-06-06
+SUC009,SD León Gto,Tienda Física,Guanajuato,Roberto Díaz,A,13000000,0,2021-08-01
+SUC010,SD Aguascalientes Centro,Tienda Física,Aguascalientes,Roberto Díaz,A,11000000,0,2021-01-09
+SUC011,SD San Luis Potosí,Tienda Física,SLP,Roberto Díaz,B,7500000,0,2019-07-21
+SUC012,SD Colima,Tienda Física,Colima,Laura Mendoza,B,5000000,0,2019-02-09
+SUC013,SD Morelia,Tienda Física,Michoacán,Roberto Díaz,B,6800000,0,2020-02-20
+SUC014,SD Tepic,Tienda Física,Nayarit,Carlos Herrera,C,3800000,0,2021-04-28
+SUC015,SD Zacatecas,Tienda Física,Zacatecas,Roberto Díaz,C,3500000,0,2019-06-27
+SUC016,SD Querétaro,Tienda Física,Querétaro,Roberto Díaz,B,9000000,0,2018-04-11
+ECO001,SD E-commerce Web,E-commerce,Nacional,Ana Torres,A,25000000,0,2018-06-02
+ECO002,SD App Móvil,E-commerce,Nacional,Ana Torres,B,8000000,0,2018-08-23
+MKP001,SD en Mercado Libre,Marketplace,Nacional,Ana Torres,B,6500000,0,2021-05-20
+MKP002,SD en Amazon MX,Marketplace,Nacional,Ana Torres,C,3000000,0,2018-07-06
+CRD001,Crédito SD Jalisco,Crédito SD,Jalisco,Diana Ruiz,A,20000000,90,2020-10-05
+CRD002,Crédito SD Bajío,Crédito SD,Guanajuato,Diana Ruiz,A,12000000,90,2020-04-09
+CRD003,Crédito SD Occidente,Crédito SD,Colima,Diana Ruiz,B,7000000,90,2018-09-29
+FIN001,Ventas Kuesky Pay,Kuesky Pay,Nacional,Ana Torres,B,4500000,0,2018-11-13
+FIN002,Ventas Aplazo,Aplazo,Nacional,Ana Torres,C,2800000,0,2020-06-01
+MAY001,Corporativo Hoteles GDL,Mayoreo,Jalisco,Carlos Herrera,B,5000000,30,2020-01-20
+MAY002,Gobierno del Estado Jalisco,Mayoreo,Jalisco,Diana Ruiz,C,3500000,30,2019-08-11
+MAY003,Uniformes Empresariales SA,Mayoreo,Nacional,Roberto Díaz,C,2500000,30,2019-12-24
+SUC017,SD Sucursal Regional 17,Tienda Física,Guanajuato,Carlos Herrera,C,2653556,0,2021-10-31
+SUC018,SD Sucursal Regional 18,Tienda Física,Colima,Laura Mendoza,C,1929895,0,2021-02-13
+SUC019,SD Sucursal Regional 19,Tienda Física,Guanajuato,Diana Ruiz,C,1633306,0,2021-04-01
+SUC020,SD Sucursal Regional 20,Tienda Física,Guanajuato,Laura Mendoza,C,2475850,0,2022-02-24
+SUC021,SD Sucursal Regional 21,Tienda Física,Jalisco,Laura Mendoza,C,4225812,0,2020-08-12
+SUC022,SD Sucursal Regional 22,Tienda Física,Aguascalientes,Laura Mendoza,C,3384119,0,2022-05-23
+SUC023,SD Sucursal Regional 23,Tienda Física,Nayarit,Carlos Herrera,C,2169659,0,2019-03-19
+SUC024,SD Sucursal Regional 24,Tienda Física,Aguascalientes,Roberto Díaz,C,2665476,0,2019-05-28
+SUC025,SD Sucursal Regional 25,Tienda Física,Colima,Roberto Díaz,C,1928700,0,2021-03-21
+SUC026,SD Sucursal Regional 26,Tienda Física,Aguascalientes,Carlos Herrera,C,3005668,0,2019-03-18
+SUC027,SD Sucursal Regional 27,Tienda Física,Nayarit,Carlos Herrera,C,3426967,0,2021-04-10
+SUC028,SD Sucursal Regional 28,Tienda Física,Guanajuato,Diana Ruiz,C,1830511,0,2022-06-21
+SUC029,SD Sucursal Regional 29,Tienda Física,Nayarit,Roberto Díaz,C,3921590,0,2022-02-10
+SUC030,SD Sucursal Regional 30,Tienda Física,Guanajuato,Carlos Herrera,C,4273539,0,2018-07-17
+SUC031,SD Sucursal Regional 31,Tienda Física,Nayarit,Carlos Herrera,C,2476395,0,2018-12-21
+SUC032,SD Sucursal Regional 32,Tienda Física,Aguascalientes,Roberto Díaz,C,3401740,0,2022-03-07
+SUC033,SD Sucursal Regional 33,Tienda Física,SLP,Laura Mendoza,C,3052651,0,2021-03-24
+SUC034,SD Sucursal Regional 34,Tienda Física,Colima,Roberto Díaz,C,4443647,0,2022-02-17
+SUC035,SD Sucursal Regional 35,Tienda Física,Guanajuato,Laura Mendoza,C,3740345,0,2022-05-02
+SUC036,SD Sucursal Regional 36,Tienda Física,Colima,Laura Mendoza,C,3438859,0,2020-08-28
+SUC037,SD Sucursal Regional 37,Tienda Física,Nayarit,Laura Mendoza,C,4371480,0,2022-02-10
+SUC038,SD Sucursal Regional 38,Tienda Física,Jalisco,Laura Mendoza,C,1634638,0,2019-08-18
+SUC039,SD Sucursal Regional 39,Tienda Física,Aguascalientes,Roberto Díaz,C,1777615,0,2023-05-02
+SUC040,SD Sucursal Regional 40,Tienda Física,SLP,Laura Mendoza,C,4249109,0,2023-05-23
+SUC041,SD Sucursal Regional 41,Tienda Física,Aguascalientes,Diana Ruiz,C,2099246,0,2023-12-09
+SUC042,SD Sucursal Regional 42,Tienda Física,Michoacán,Laura Mendoza,C,3854548,0,2023-09-06
+SUC043,SD Sucursal Regional 43,Tienda Física,Nayarit,Diana Ruiz,C,3947514,0,2023-04-20
+SUC044,SD Sucursal Regional 44,Tienda Física,SLP,Laura Mendoza,C,2080205,0,2023-10-04
+SUC045,SD Sucursal Regional 45,Tienda Física,Querétaro,Carlos Herrera,C,1697620,0,2023-03-09
+SUC046,SD Sucursal Regional 46,Tienda Física,Michoacán,Laura Mendoza,C,4354145,0,2024-01-06
+SUC047,SD Sucursal Regional 47,Tienda Física,Guanajuato,Diana Ruiz,C,3100627,0,2023-10-20
+SUC048,SD Sucursal Regional 48,Tienda Física,Querétaro,Roberto Díaz,C,3820397,0,2023-10-23
+SUC049,SD Sucursal Regional 49,Tienda Física,Guanajuato,Roberto Díaz,C,4188388,0,2023-08-31
+SUC050,SD Sucursal Regional 50,Tienda Física,Guanajuato,Roberto Díaz,C,3323537,0,2023-05-05
+SUC051,SD Sucursal Regional 51,Tienda Física,Querétaro,Carlos Herrera,C,2604733,0,2023-08-31
+SUC052,SD Sucursal Regional 52,Tienda Física,Michoacán,Carlos Herrera,C,4122699,0,2023-07-28
+SUC053,SD Sucursal Regional 53,Tienda Física,Colima,Laura Mendoza,C,3068308,0,2023-04-08
+SUC054,SD Sucursal Regional 54,Tienda Física,Jalisco,Roberto Díaz,C,3549360,0,2023-02-18
+SUC055,SD Sucursal Regional 55,Tienda Física,Guanajuato,Roberto Díaz,C,2789807,0,2023-02-19
+SUC056,SD Sucursal Regional 56,Tienda Física,Jalisco,Laura Mendoza,C,3879667,0,2023-12-04
+SUC057,SD Sucursal Regional 57,Tienda Física,Guanajuato,Diana Ruiz,C,1790298,0,2023-08-09

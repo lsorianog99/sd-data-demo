@@ -1,0 +1,68 @@
+sku,nombre,marca,categoria,precio_lista_mxn,costo_mxn,peso_kg,unidades_por_caja,rotacion_esperada,temporalidad,margen_bruto_pct
+SKU001,iPhone 15 128GB,Apple,Smartphones,18999,15200,0.3,1,alta,buen_fin_navidad,20.0
+SKU002,iPhone 15 Pro Max 256GB,Apple,Smartphones,28999,23200,0.3,1,media,buen_fin_navidad,20.0
+SKU003,Samsung Galaxy S24 128GB,Samsung,Smartphones,16499,12375,0.3,1,alta,buen_fin_navidad,25.0
+SKU004,Samsung Galaxy A15 64GB,Samsung,Smartphones,4299,2580,0.3,1,alta,todo_año,40.0
+SKU005,Xiaomi Redmi Note 13 128GB,Xiaomi,Smartphones,4999,2750,0.3,1,alta,todo_año,45.0
+SKU006,Motorola Moto G54 128GB,Motorola,Smartphones,5499,3300,0.3,1,alta,todo_año,40.0
+SKU007,Laptop HP 15 Core i5 8GB/512SSD,HP,Laptops,14999,11250,2.5,1,alta,regreso_clases,25.0
+SKU008,Laptop Lenovo IdeaPad 15 Ryzen5,Lenovo,Laptops,12999,9100,2.5,1,alta,regreso_clases,30.0
+SKU009,MacBook Air M2 256GB,Apple,Laptops,24999,20000,1.5,1,media,buen_fin_navidad,20.0
+SKU010,Tablet Samsung Galaxy Tab A9,Samsung,Laptops,4999,3250,0.5,1,media,regreso_clases,35.0
+SKU011,"Smart TV Samsung 55"" 4K",Samsung,TVs,10999,7700,15.0,1,alta,buen_fin_navidad,30.0
+SKU012,"Smart TV LG 50"" 4K",LG,TVs,8999,5850,14.0,1,alta,buen_fin_navidad,35.0
+SKU013,"Smart TV Hisense 65"" 4K",Hisense,TVs,12999,8450,20.0,1,media,buen_fin_navidad,35.0
+SKU014,"Smart TV TCL 43"" FHD",TCL,TVs,5499,3300,10.0,1,alta,todo_año,40.0
+SKU015,Refrigerador Samsung 14ft,Samsung,Línea Blanca,14999,10500,60.0,1,media,hot_sale,30.0
+SKU016,Lavadora LG 20kg Inverter,LG,Línea Blanca,13499,9450,45.0,1,media,hot_sale,30.0
+SKU017,Estufa Whirlpool 6 Quemadores,Whirlpool,Línea Blanca,8999,5850,50.0,1,media,todo_año,35.0
+SKU018,Microondas LG 1.4ft Inverter,LG,Línea Blanca,4499,2700,8.0,1,alta,todo_año,40.0
+SKU019,Aire Acondicionado Samsung 1Ton,Samsung,Línea Blanca,9999,6500,35.0,1,media,verano,35.0
+SKU020,Tenis Nike Air Max 90,Nike,Calzado,2899,1450,1.0,1,alta,todo_año,50.0
+SKU021,Tenis Puma RS-X,Puma,Calzado,2499,1250,1.0,1,alta,todo_año,50.0
+SKU022,Zapato LOB Casual Hombre,LOB,Calzado,1899,1045,0.8,1,alta,todo_año,45.0
+SKU023,Bota Andrea Hombre,Andrea,Calzado,1599,800,1.2,1,media,invierno,50.0
+SKU024,Tenis Adidas Superstar,Adidas,Calzado,2199,1100,1.0,1,alta,todo_año,50.0
+SKU025,Tenis Nike Revolution 7 Mujer,Nike,Calzado,1999,1000,0.8,1,alta,todo_año,50.0
+SKU026,Sandalia Andrea Mujer,Andrea,Calzado,999,500,0.5,1,alta,verano,49.9
+SKU027,Bota LOB Mujer Chelsea,LOB,Calzado,2299,1150,1.0,1,media,invierno,50.0
+SKU028,Zapato Flexi Mujer Confort,Flexi,Calzado,1299,650,0.7,1,alta,todo_año,50.0
+SKU029,Jeans Lee Hombre Slim Fit,Lee,Ropa,1099,550,0.6,1,alta,todo_año,50.0
+SKU030,Playera Polo Hombre,Levi's,Ropa,799,360,0.3,1,alta,todo_año,54.9
+SKU031,Chamarra Aéropostale Hombre,Aéropostale,Ropa,1899,950,0.8,1,media,invierno,50.0
+SKU032,Camisa Formal Hombre,LOB,Ropa,999,500,0.3,1,media,todo_año,49.9
+SKU033,Jeans Lee Mujer Skinny,Lee,Ropa,999,500,0.5,1,alta,todo_año,49.9
+SKU034,Blusa Casual Mujer,Levi's,Ropa,699,315,0.2,1,alta,todo_año,54.9
+SKU035,Vestido Andrea Mujer,Andrea,Ropa,1499,750,0.4,1,media,verano,50.0
+SKU036,Chamarra Mujer Acolchada,Aéropostale,Ropa,2199,1100,0.9,1,media,invierno,50.0
+SKU037,Carolina Herrera Good Girl 80ml,Carolina Herrera,Perfumes,3499,1750,0.3,1,alta,dia_madres_navidad,50.0
+SKU038,Hugo Boss Bottled 100ml,Hugo Boss,Perfumes,2499,1250,0.3,1,alta,navidad,50.0
+SKU039,Versace Eros 100ml,Versace,Perfumes,2799,1400,0.3,1,alta,navidad,50.0
+SKU040,Dolce & Gabbana Light Blue 100ml,D&G,Perfumes,2299,1150,0.3,1,media,dia_madres_navidad,50.0
+SKU041,Perfume Zara Mujer 90ml,Zara,Perfumes,699,280,0.3,1,alta,todo_año,59.9
+SKU042,Colchón Restonic Matrimonial,Restonic,Colchones,8999,4950,25.0,1,media,hot_sale,45.0
+SKU043,Colchón Wendy Matrimonial,Wendy,Colchones,6999,3850,23.0,1,media,hot_sale,45.0
+SKU044,Colchón Spring Air Individual,Spring Air,Colchones,4999,2750,18.0,1,media,todo_año,45.0
+SKU045,Base + Colchón Restonic Queen,Restonic,Colchones,14999,8250,35.0,1,baja,buen_fin_navidad,45.0
+SKU046,Barbie Dreamhouse,Mattel,Juguetes,3999,2000,5.0,1,alta,navidad,50.0
+SKU047,Hot Wheels Pista Épica,Mattel,Juguetes,1299,650,2.5,1,alta,navidad,50.0
+SKU048,Monopoly Clásico,Hasbro,Juguetes,599,300,1.5,1,alta,navidad,49.9
+SKU049,LEGO City Set Bomberos,LEGO,Juguetes,1499,750,1.0,1,alta,navidad,50.0
+SKU050,Nerf Elite 2.0,Hasbro,Juguetes,899,450,1.2,1,alta,navidad,49.9
+SKU051,Bicicleta Mountain Bike R29,Benotto,Bicicletas,5999,3000,14.0,1,media,verano,50.0
+SKU052,Bicicleta Urbana R26 Mujer,Mercurio,Bicicletas,3999,2000,12.0,1,media,verano,50.0
+SKU053,Bicicleta Infantil R16,Benotto,Bicicletas,2499,1250,8.0,1,alta,navidad,50.0
+SKU054,Plancha Cabello Conair,Conair,Belleza,1299,650,0.5,1,alta,dia_madres_navidad,50.0
+SKU055,Secadora Cabello Revlon,Revlon,Belleza,999,500,0.8,1,alta,dia_madres_navidad,49.9
+SKU056,Rasuradora Philips OneBlade,Philips,Belleza,1199,600,0.3,1,alta,todo_año,50.0
+SKU057,Kit Skin Care 5 Pasos,Neutrogena,Belleza,899,450,0.5,1,media,todo_año,49.9
+SKU058,Audífonos Sony WH-1000XM5,Sony,Accesorios Tech,6999,4550,0.3,1,media,buen_fin_navidad,35.0
+SKU059,Apple AirPods Pro 2,Apple,Accesorios Tech,5499,3850,0.1,1,alta,buen_fin_navidad,30.0
+SKU060,Smart Watch Xiaomi Band 8,Xiaomi,Accesorios Tech,1299,650,0.1,1,alta,todo_año,50.0
+SKU061,Bocina JBL Flip 6,JBL,Accesorios Tech,2499,1500,0.5,1,alta,todo_año,40.0
+SKU062,Power Bank 20000mAh,Xiaomi,Accesorios Tech,699,350,0.4,1,alta,todo_año,49.9
+SKU063,Licuadora Oster 10 Vel,Oster,Hogar,1499,750,3.0,1,alta,dia_madres_navidad,50.0
+SKU064,Cafetera Nespresso Vertuo,Nespresso,Hogar,3499,2100,4.0,1,media,buen_fin_navidad,40.0
+SKU065,Aspiradora Robot iRobot,iRobot,Hogar,7999,4800,4.0,1,baja,buen_fin_navidad,40.0
+SKU066,Freidora de Aire 5.5L,Oster,Hogar,2499,1250,5.0,1,alta,hot_sale,50.0
+SKU067,Sartén Set 5pz Antiadherente,T-Fal,Hogar,1999,1000,3.0,1,media,todo_año,50.0

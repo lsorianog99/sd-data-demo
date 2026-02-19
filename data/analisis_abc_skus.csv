@@ -1,0 +1,68 @@
+sku,venta_total_mxn,margen_total_mxn,cajas_vendidas,margen_acumulado_pct,clasificacion_abc,nombre,marca,categoria
+SKU045,168136149.49,72295899.49,11617,6.0,A,Base + Colchón Restonic Queen,Restonic,Colchones
+SKU002,393152664.32,64083864.32,14184,11.4,A,iPhone 15 Pro Max 256GB,Apple,Smartphones
+SKU016,190884500.3,52338050.3,14661,15.8,A,Lavadora LG 20kg Inverter,LG,Línea Blanca
+SKU042,109033790.89,46480640.89,12637,19.6,A,Colchón Restonic Matrimonial,Restonic,Colchones
+SKU013,137182841.26,44165241.26,11008,23.3,A,"Smart TV Hisense 65"" 4K",Hisense,TVs
+SKU008,157734584.36,43110984.36,12596,26.9,A,Laptop Lenovo IdeaPad 15 Ryzen5,Lenovo,Laptops
+SKU003,176600331.62,38173581.62,11186,30.1,A,Samsung Galaxy S24 128GB,Samsung,Smartphones
+SKU019,112745576.18,36669576.18,11704,33.2,A,Aire Acondicionado Samsung 1Ton,Samsung,Línea Blanca
+SKU015,136957083.07,36598083.07,9558,36.2,A,Refrigerador Samsung 14ft,Samsung,Línea Blanca
+SKU051,71616131.34,34485131.34,12377,39.1,A,Bicicleta Mountain Bike R29,Benotto,Bicicletas
+SKU043,79432595.06,34102695.06,11774,42.0,A,Colchón Wendy Matrimonial,Wendy,Colchones
+SKU017,104930995.26,33326995.26,12240,44.8,A,Estufa Whirlpool 6 Quemadores,Whirlpool,Línea Blanca
+SKU012,94476738.22,30758538.22,10892,47.3,A,"Smart TV LG 50"" 4K",LG,TVs
+SKU065,71652577.68,26954977.68,9312,49.6,A,Aspiradora Robot iRobot,iRobot,Hogar
+SKU006,65345308.65,24349408.65,12423,51.6,A,Motorola Moto G54 128GB,Motorola,Smartphones
+SKU005,55841347.47,23949597.47,11597,53.6,A,Xiaomi Redmi Note 13 128GB,Xiaomi,Smartphones
+SKU010,69467666.21,22271166.21,14522,55.5,A,Tablet Samsung Galaxy Tab A9,Samsung,Laptops
+SKU014,59867026.12,22194226.12,11416,57.3,A,"Smart TV TCL 43"" FHD",TCL,TVs
+SKU018,58457878.97,21843178.97,13561,59.1,A,Microondas LG 1.4ft Inverter,LG,Línea Blanca
+SKU009,135829541.43,21349541.43,5724,60.9,A,MacBook Air M2 256GB,Apple,Laptops
+SKU004,53387339.86,19883459.86,12986,62.6,A,Samsung Galaxy A15 64GB,Samsung,Smartphones
+SKU007,93050766.31,19554516.31,6533,64.2,A,Laptop HP 15 Core i5 8GB/512SSD,HP,Laptops
+SKU021,37362655.28,17868905.28,15595,65.7,A,Tenis Puma RS-X,Puma,Calzado
+SKU052,36525627.59,17509627.59,9508,67.2,A,Bicicleta Urbana R26 Mujer,Mercurio,Bicicletas
+SKU058,53319354.01,17115004.01,7957,68.6,A,Audífonos Sony WH-1000XM5,Sony,Accesorios Tech
+SKU040,34720061.66,16620211.66,15739,70.0,A,Dolce & Gabbana Light Blue 100ml,D&G,Perfumes
+SKU001,96309845.5,15385045.5,5324,71.3,A,iPhone 15 128GB,Apple,Smartphones
+SKU024,30117205.4,14397105.4,14291,72.5,A,Tenis Adidas Superstar,Adidas,Calzado
+SKU011,53360570.21,14229170.21,5082,73.7,A,"Smart TV Samsung 55"" 4K",Samsung,TVs
+SKU064,38044256.52,14062256.52,11420,74.8,A,Cafetera Nespresso Vertuo,Nespresso,Hogar
+SKU053,29004272.73,13948022.73,12045,76.0,A,Bicicleta Infantil R16,Benotto,Bicicletas
+SKU037,29033740.59,13943490.59,8623,77.2,A,Carolina Herrera Good Girl 80ml,Carolina Herrera,Perfumes
+SKU027,28792451.22,13718251.22,13108,78.3,A,Bota LOB Mujer Chelsea,LOB,Calzado
+SKU044,31560815.17,13542815.17,6552,79.5,A,Colchón Spring Air Individual,Spring Air,Colchones
+SKU020,27998846.13,13334996.13,10113,80.6,B,Tenis Nike Air Max 90,Nike,Calzado
+SKU039,25857984.63,12333984.63,9660,81.6,B,Versace Eros 100ml,Versace,Perfumes
+SKU031,23947197.68,11435697.68,13170,82.6,B,Chamarra Aéropostale Hombre,Aéropostale,Ropa
+SKU061,29430508.25,11093008.25,12225,83.5,B,Bocina JBL Flip 6,JBL,Accesorios Tech
+SKU059,39761949.31,10856149.31,7508,84.4,B,Apple AirPods Pro 2,Apple,Accesorios Tech
+SKU022,25105495.51,10660460.51,13823,85.3,B,Zapato LOB Casual Hombre,LOB,Calzado
+SKU038,21727267.34,10376017.34,9081,86.1,B,Hugo Boss Bottled 100ml,Hugo Boss,Perfumes
+SKU023,21435532.52,10287532.52,13935,87.0,B,Bota Andrea Hombre,Andrea,Calzado
+SKU066,21043275.96,10133275.959999999,8728,87.8,B,Freidora de Aire 5.5L,Oster,Hogar
+SKU063,20856776.57,9956276.57,14534,88.7,B,Licuadora Oster 10 Vel,Oster,Hogar
+SKU025,20396741.76,9771741.76,10625,89.5,B,Tenis Nike Revolution 7 Mujer,Nike,Calzado
+SKU035,20108006.06,9578756.06,14039,90.3,B,Vestido Andrea Mujer,Andrea,Ropa
+SKU046,18517061.61,8913061.61,4802,91.0,B,Barbie Dreamhouse,Mattel,Juguetes
+SKU060,14963546.75,7151846.75,12018,91.6,B,Smart Watch Xiaomi Band 8,Xiaomi,Accesorios Tech
+SKU036,14648888.99,7064388.99,6895,92.2,B,Chamarra Mujer Acolchada,Aéropostale,Ropa
+SKU056,14260607.88,6861407.88,12332,92.8,B,Rasuradora Philips OneBlade,Philips,Belleza
+SKU028,14151495.67,6798695.67,11312,93.4,B,Zapato Flexi Mujer Confort,Flexi,Calzado
+SKU055,14117434.25,6786434.25,14662,93.9,B,Secadora Cabello Revlon,Revlon,Belleza
+SKU047,13542999.73,6432649.73,10939,94.5,B,Hot Wheels Pista Épica,Mattel,Juguetes
+SKU029,13206962.92,6327562.92,12508,95.0,B,Jeans Lee Hombre Slim Fit,Lee,Ropa
+SKU054,12971097.91,6174047.91,10457,95.5,C,Plancha Cabello Conair,Conair,Belleza
+SKU041,9718807.61,5646487.61,14544,96.0,C,Perfume Zara Mujer 90ml,Zara,Perfumes
+SKU026,11669765.65,5621265.65,12097,96.5,C,Sandalia Andrea Mujer,Andrea,Calzado
+SKU033,11581776.03,5539276.03,12085,96.9,C,Jeans Lee Mujer Skinny,Lee,Ropa
+SKU067,11184207.81,5346207.81,5838,97.4,C,Sartén Set 5pz Antiadherente,T-Fal,Hogar
+SKU030,9259702.93,4922062.93,12049,97.8,C,Playera Polo Hombre,Levi's,Ropa
+SKU057,9789252.39,4634952.39,11454,98.2,C,Kit Skin Care 5 Pasos,Neutrogena,Belleza
+SKU032,9264647.8,4415147.8,9699,98.5,C,Camisa Formal Hombre,LOB,Ropa
+SKU050,9039286.88,4305286.88,10520,98.9,C,Nerf Elite 2.0,Hasbro,Juguetes
+SKU034,8094209.16,4283654.16,12097,99.3,C,Blusa Casual Mujer,Levi's,Ropa
+SKU049,7698028.6,3671278.6,5369,99.6,C,LEGO City Set Bomberos,LEGO,Juguetes
+SKU048,5661107.76,2717507.76,9812,99.8,C,Monopoly Clásico,Hasbro,Juguetes
+SKU062,5388622.03,2578472.03,8029,100.0,C,Power Bank 20000mAh,Xiaomi,Accesorios Tech
